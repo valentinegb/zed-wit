@@ -9,3 +9,7 @@ repository = "https://github.com/valentinegb/zed-wit"
 [grammars.wit]
 repository = "https://github.com/liamwh/tree-sitter-wit"
 commit = "3d6124cfe88555ecee1ba97d6d76c70d13af927a"
+
+[language_servers.wit]
+name = "wit-lsp"
+language = "WIT"
